@@ -35,7 +35,7 @@
     <string name="addCustomFilterSuccess">該自訂的過濾器被成功地加入</string>
     <string name="addLogsLabel">傳送詳細的系統資訊</string>
     <string name="addLogsSummary">傳送有關正在執行的程序、已安裝的應用程式、記憶體、處理器、電池狀態和應用程式記錄之詳細的系統資訊。</string>
-    <string name="addUserRuleButtonText">增加規則</string>
+    <string name="addUserRuleButtonText">新增規則</string>
     <string name="addUserRuleDialogText">過濾規則：</string>
     <string name="add_custom_dns">增加自訂的 DNS 伺服器</string>
     <string name="add_orbot_integration">與 Tor 整合</string>
@@ -165,7 +165,7 @@
     <string name="blocked_threats">已封鎖的威脅</string>
     <string name="blocked_trackers">已封鎖的追蹤器</string>
     <string name="blocked_url_label">已封鎖的網址</string>
-    <string name="browseButtonText">瀏覽...</string>
+    <string name="browseButtonText">瀏覽…</string>
     <string name="browser_api_title">瀏覽器應用程式介面（Browser API）</string>
     <string name="browsers">僅瀏覽器</string>
     <string name="bulk_change">批次更改</string>
@@ -1044,4 +1044,5 @@
     <string name="wifi_subtext">過濾器更新，檢查網站安全</string>
     <string name="you_have_not_created_user_filters">您尚未增加任何自訂的過濾器</string>
     <string name="abc_font_family_body_2_material"/>
+    <string name="app_language_korean">官方中文</string>
 </resources>
