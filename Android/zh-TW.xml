@@ -20,9 +20,9 @@
     <string name="about_title">關於</string>
     <string name="account">帳戶</string>
     <string name="acknowledgments_link_title">致謝</string>
-    <string name="activate">啟動</string>
-    <string name="activateProgressDialogTitle">正在啟動</string>
-    <string name="activate_adguard_premium">啟動 AdGuard 進階版</string>
+    <string name="activate">啟用</string>
+    <string name="activateProgressDialogTitle">正在啟用</string>
+    <string name="activate_adguard_premium">啟用 AdGuard 進階版</string>
     <string name="activatedAlreadyMessage">該應用程式已被啟動。</string>
     <string name="activationBlockedMessage">您的授權金鑰被封鎖。</string>
     <string name="activationErrorMessage">請檢查您已輸入一個有效的進階版授權金鑰。</string>
@@ -37,10 +37,10 @@
     <string name="addLogsSummary">傳送有關正在執行的程序、已安裝的應用程式、記憶體、處理器、電池狀態和應用程式記錄之詳細的系統資訊。</string>
     <string name="addUserRuleButtonText">新增規則</string>
     <string name="addUserRuleDialogText">過濾規則：</string>
-    <string name="add_custom_dns">增加自訂的 DNS 伺服器</string>
+    <string name="add_custom_dns">加入新的 DNS 伺服器</string>
     <string name="add_orbot_integration">與 Tor 整合</string>
-    <string name="add_pre_defined_dns">從該清單中選擇 DNS 伺服器</string>
-    <string name="add_proxy">增加代理伺服器</string>
+    <string name="add_pre_defined_dns">從清單中選擇 DNS 伺服器</string>
+    <string name="add_proxy">加入代理伺服器</string>
     <string name="add_proxy_dialog_empty_host_error">輸入代理主機</string>
     <string name="add_proxy_dialog_empty_name_error">輸入代理名稱</string>
     <string name="add_proxy_dialog_empty_port_error">無效的代理連接埠</string>
@@ -55,7 +55,7 @@
         <b>%s</b>
         <br/> 在您按\'開啟設定\'之後，安全性設定將被打開。在那裡，於\"從儲存空間或 SD 卡安裝憑證\"上輕觸，然後找到那目錄並選擇 \"adguard.crt\" 以安裝該憑證。</string>
     <string name="all_apps">應用程式和瀏覽器</string>
-    <string name="all_rights_reserved">保留所有的權利。AdGuard.com</string>
+    <string name="all_rights_reserved">AdGuard.com 保留所有的權利</string>
     <string name="all_time_interval">所有的時間</string>
     <string name="allowMobile">行動數據</string>
     <string name="allowOffScreenMobile">當螢幕關著時之行動數據</string>
@@ -90,7 +90,7 @@
     <string name="apps_management_allow_wifi">Wi-Fi 數據</string>
     <string name="apps_management_allow_wifi_summary">允許 Wi-Fi 數據之使用。</string>
     <string name="apps_management_chart_stats_title">關於 %s 之流量統計資料</string>
-    <string name="apps_management_clear_statistics">您確定您想要清除統計資料嗎？</string>
+    <string name="apps_management_clear_statistics">您確定要清除統計資料嗎？</string>
     <string name="apps_management_clear_statistics_dialog_title">正在清除統計資料</string>
     <string name="apps_management_defaults_settings_section">預設</string>
     <string name="apps_management_disabled_firewall">如果您啟用防火牆，該選項將變為可用的</string>
@@ -115,7 +115,7 @@
     <string name="assistant_open_settings">開啟設定</string>
     <string name="assistant_tip_text">AdGuard 助理使您得以對於您最近已使用的應用程式或網站立即更改設定。</string>
     <string name="assistant_unblock_permanent">解除封鎖網路存取</string>
-    <string name="assistant_unblock_temporarily">計 30 秒解除封鎖</string>
+    <string name="assistant_unblock_temporarily">在 30 秒內解除封鎖</string>
     <string name="assistant_unwhitelist_permanent">從白名單中移除</string>
     <string name="assistant_web_time_passed_format">網站，在 %s 以前已被使用</string>
     <string name="assistant_whitelist_permanent">白名單</string>
