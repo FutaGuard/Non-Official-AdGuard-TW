@@ -51,7 +51,9 @@
     <string name="adguard_dns_description">移除廣告並保護您的裝置免於惡意軟體</string>
     <string name="adguard_family_dns_description">AdGuard DNS + 安全搜尋和成人內容封鎖</string>
     <string name="adguard_settings">AdGuard 設定</string>
-    <string name="advancedCertificateInstallText">"該憑證被儲存到此目錄︰&lt;br/&gt;&lt;b&gt;%s&lt;/b&gt;&lt;br/&gt; 在您按'開啟設定'之後，安全性設定將被打開。在那裡，於\"從儲存空間或 SD 卡安裝憑證\"上輕觸，然後找到那目錄並選擇 \"adguard.crt\" 以安裝該憑證。"</string>
+    <string name="advancedCertificateInstallText">該憑證被儲存到此目錄︰<br/>
+        <b>%s</b>
+        <br/> 在您按\'開啟設定\'之後，安全性設定將被打開。在那裡，於\"從儲存空間或 SD 卡安裝憑證\"上輕觸，然後找到那目錄並選擇 \"adguard.crt\" 以安裝該憑證。</string>
     <string name="all_apps">應用程式和瀏覽器</string>
     <string name="all_rights_reserved">保留所有的權利。AdGuard.com</string>
     <string name="all_time_interval">所有的時間</string>
@@ -359,7 +361,7 @@
     <string name="error">錯誤</string>
     <string name="error_enter_valid_email">請輸入一個有效的電子郵件地址。</string>
     <string name="error_no_spaces_allowed">無已允許的空格！</string>
-    <string name="eula_agreement_text">透過繼續，您同意我們的&lt;a href=\"{0}\"&gt;終端用戶授權協定&lt;/a&gt;和&lt;a href=\"{1}\"&gt;隱私政策&lt;/a&gt;。</string>
+    <string name="eula_agreement_text">透過繼續，您同意我們的<a href="{0}">終端用戶授權協定</a>和<a href="{1}">隱私政策</a>。</string>
     <string name="eula_link_title">終端用戶授權協定</string>
     <string name="event_type_connection">連線</string>
     <string name="event_type_dns">DNS 請求</string>
@@ -369,9 +371,9 @@
     <string name="event_type_removed_html">已移除的 HTML 元件</string>
     <string name="event_type_tunnel">HTTPS 隧道</string>
     <string name="event_type_web">網路請求</string>
-    <string name="exit_dialog_text">"如果您離開 AdGuard，您的系統將不再被我們的防火牆和廣告封鎖技術保護。
-
-您想要離開嗎？"</string>
+    <string name="exit_dialog_text">如果您離開 AdGuard，您的系統將不再被我們的防火牆和廣告封鎖技術保護。
+\n
+\n您想要離開嗎？</string>
     <string name="exportSettingsError">匯出設定出錯</string>
     <string name="exportSettingsOk">設定被成功地匯出！</string>
     <string name="exportUserRulesButtonText">匯出</string>
@@ -459,16 +461,14 @@
     <string name="firewallNotificationTitle">%s 被封鎖</string>
     <string name="firewallResetWarningDialogMessage">您確定您想要重置所有的防火牆設定為預設嗎？</string>
     <string name="firewall_permission">防火牆權限</string>
-    <string name="firewall_permission_warning_summary">"為使該功能正確地工作，AdGuard 需要於您的裝置上允許對應用程式使用記錄歷史和統計資料之存取的\"使用記錄存取\"權限。
-在接著的螢幕上，選擇 AdGuard，然後於\"允許存取使用記錄\"啟用該開關或核取框。"</string>
+    <string name="firewall_permission_warning_summary">為使該功能正確地工作，AdGuard 需要於您的裝置上允許對應用程式使用記錄歷史和統計資料之存取的\"使用記錄存取\"權限。 在接著的螢幕上，選擇 AdGuard，然後於\"允許存取使用記錄\"啟用該開關或核取框。</string>
     <string name="first_party_cookies_disable_message">如果您啟用第一方的 cookies 之自毀，該選項將變為可用的</string>
     <string name="first_party_cookies_summary">限制第一方的 cookies 之存活時間（TTL）</string>
     <string name="first_party_cookies_title">第一方的 cookies 之自毀（不被建議的）</string>
     <string name="first_party_cookies_value_summary">目前：%d 分鐘</string>
     <string name="first_party_cookies_value_title">第一方的 cookies 之存活時間（TTL）</string>
     <string name="first_party_requests">第一方的</string>
-    <string name="free_license_notification">"免費版
-無在應用程式內封鎖"</string>
+    <string name="free_license_notification">免費版 無在應用程式內封鎖</string>
     <string name="get_free_trial">取得免費的試用</string>
     <string name="get_premium">取得進階版</string>
     <string name="gmsWarningTitle">該封包可被第三方的應用程式用來加載 Google 廣告。停用廣告封鎖或過濾可能會導致解除封鎖一些應用程式內廣告。</string>
@@ -513,8 +513,7 @@
     <string name="install">安裝</string>
     <string name="install_certificate_title">自動地安裝安全性憑證</string>
     <string name="installed_into_system_store_title">憑證被安裝進系統憑證儲存區</string>
-    <string name="installed_into_user_store_nougat_summary">"AdGuard 可在多數的網路瀏覽器中過濾 HTTPS。
-由於 Android 限制，一般為 Nougat+（牛軋糖+）所建立的應用程式無法被過濾。"</string>
+    <string name="installed_into_user_store_nougat_summary">AdGuard 可在多數的網路瀏覽器中過濾 HTTPS。 由於 Android 限制，一般為 Nougat+（牛軋糖+）所建立的應用程式無法被過濾。</string>
     <string name="installed_into_user_store_older_summary">AdGuard 可在多數的應用程式中過濾 HTTPS。</string>
     <string name="installed_into_user_store_title">憑證被安裝進使用者憑證儲存區</string>
     <string name="ip_address">IP 位址[:連接埠]</string>
@@ -524,14 +523,13 @@
     <string name="joke_phrase_3">一鍵以封鎖它們全部</string>
     <string name="label_version">版本</string>
     <string name="learn_more">了解更多</string>
-    <string name="license_expire_after_days">"您的授權將
-在 %d 日後到期"</string>
+    <string name="license_expire_after_days">您的授權將 在 %d 日後到期</string>
     <string name="license_expired">授權已到期</string>
-    <string name="license_lifetime">您的授權為有效的
+    <string name="license_lifetime">您的授權為有效的 
 \n直到永遠為止</string>
     <string name="license_title">授權</string>
     <string name="license_valid_until">直到 %s 為止</string>
-    <string name="license_valid_until_end_life">直到時間盡頭</string>
+    <string name="license_valid_until_end_life">直到世界末日</string>
     <string name="log_details">記錄細節</string>
     <string name="log_details_filter_pattern">過濾器 %d</string>
     <string name="log_level_summary">該設定控制記錄輸出。無好的理由，不要更改它。</string>
@@ -602,7 +600,7 @@
     <string name="off">關著</string>
     <string name="ok">確定</string>
     <string name="on">開著</string>
-    <string name="onboarding_policy_text">透過繼續使用 AdGuard，您同意該&lt;a href=\"%1$s\"&gt;終端用戶授權協定&lt;/a&gt;和&lt;a href=\"%2$s\"&gt;隱私政策&lt;/a&gt;。</string>
+    <string name="onboarding_policy_text">透過繼續使用 AdGuard，您同意該<a href="%1$s">終端用戶授權協定</a>和<a href="%2$s">隱私政策</a>。</string>
     <string name="openDownloadedFileError">當打開該已下載的檔案時之非預期性的錯誤。請手動地下載該更新檔案。</string>
     <string name="open_button">開啟</string>
     <string name="open_dns_description">保護您的裝置免於惡意軟體之 DNS 伺服器</string>
@@ -845,8 +843,7 @@
     <string name="settings_export_log">匯出記錄和系統資訊</string>
     <string name="settings_export_log_summary">需要於您的裝置上對檔案之存取權限</string>
     <string name="settings_filter_apps">封鎖在所有的應用程式內之廣告</string>
-    <string name="settings_filter_apps_summary">"如果該選項被啟用，AdGuard 過濾所有的應用程式之流量。
-否則它只會過濾瀏覽器流量。"</string>
+    <string name="settings_filter_apps_summary">如果該選項被啟用，AdGuard 過濾所有的應用程式之流量。 否則它只會過濾瀏覽器流量。</string>
     <string name="settings_filtering_method">過濾方式</string>
     <string name="settings_filtering_method_description">如果您的裝置有 root 權限，您可僅使用本機 HTTP 代理自動的模式。</string>
     <string name="settings_filters">過濾器</string>
@@ -948,23 +945,15 @@
     <string name="tab_for_alltime">所有的時間</string>
     <string name="tab_for_day">今日</string>
     <string name="tab_for_month">過去的單月</string>
-    <string name="techInfoAndroidOsPackages">"負責系統應用程式流量之元套件。
-
-已包括的套件：
-{0}"</string>
+    <string name="techInfoAndroidOsPackages">負責系統應用程式流量之元套件。
+\n
+\n已包括的套件： {0}</string>
     <string name="techInfoDns">負責 DNS 流量之元套件。</string>
     <string name="techInfoError">當載入關於 {0} 的技術資訊時，錯誤已發生。</string>
-    <string name="techInfoFormat">"套件名稱：{0}
-唯一識別碼（UID）：{1}
-應用程式類型：{2}
-版本：{3}
-目標軟體開發套件（SDK）：{4}
-首次的安裝時間：{5}
-最近的更新時間：{6}"</string>
-    <string name="techInfoRemovedAppsPackage">"負責已移除的應用程式之元套件。
-
-已包括的套件：
-{0}"</string>
+    <string name="techInfoFormat">套件名稱：{0} 唯一識別碼（UID）：{1} 應用程式類型：{2} 版本：{3} 目標軟體開發套件（SDK）：{4} 首次的安裝時間：{5} 最近的更新時間：{6}</string>
+    <string name="techInfoRemovedAppsPackage">負責已移除的應用程式之元套件。
+\n
+\n已包括的套件： {0}</string>
     <string name="text_copied_to_clipboard">文字已被複製到剪貼簿</string>
     <string name="third_party_cookies_disable_message">如果您啟用第三方的 cookies 之自毀，該選項將變為可用的</string>
     <string name="third_party_cookies_summary">限制第三方的 cookies 之存活時間（TTL）</string>
@@ -989,8 +978,7 @@
     <string name="trialLicenseExpireSoonNotificationTitle">試用期即將到期</string>
     <string name="trial_expire_after_days">您的試用將在 %d 日後到期</string>
     <string name="trial_license_name">試用版授權</string>
-    <string name="trial_license_notification">"試用版
-剩下 %1$d %2$s"</string>
+    <string name="trial_license_notification">試用版 剩下 %1$d %2$s</string>
     <string name="trusted_filter">受信任的過濾器</string>
     <string name="trusted_filter_summary">被標記為受信任的過濾器可使用在錯誤的手中可能是危險的之強大的過濾規則修飾語。除非您完全地信任它，否則勿勾選該核取框。</string>
     <string name="try_for_free">免費地試用</string>
@@ -1055,5 +1043,5 @@
     <string name="widget_transparency_label">透明度：</string>
     <string name="wifi_subtext">過濾器更新，檢查網站安全</string>
     <string name="you_have_not_created_user_filters">您尚未增加任何自訂的過濾器</string>
-    <string name="abc_font_family_body_2_material"></string>
+    <string name="abc_font_family_body_2_material"/>
 </resources>
