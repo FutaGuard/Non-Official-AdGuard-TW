@@ -525,8 +525,8 @@
     <string name="learn_more">了解更多</string>
     <string name="license_expire_after_days">您的授權將 在 %d 日後到期</string>
     <string name="license_expired">授權已到期</string>
-    <string name="license_lifetime">您的授權為有效的 
-\n直到永遠為止</string>
+    <string name="license_lifetime">您的授權有效 
+\n直到世界末日</string>
     <string name="license_title">授權</string>
     <string name="license_valid_until">直到 %s 為止</string>
     <string name="license_valid_until_end_life">直到世界末日</string>
