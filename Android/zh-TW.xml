@@ -371,8 +371,8 @@
     <string name="event_type_removed_html">已移除的 HTML 元件</string>
     <string name="event_type_tunnel">HTTPS 隧道</string>
     <string name="event_type_web">網路請求</string>
-    <string name="exit_dialog_text">如果您離開 AdGuard，您的系統將不再被我們的防火牆和廣告封鎖技術保護。
-\n
+    <string name="exit_dialog_text">如果您離開 AdGuard，您的系統將不再被我們的防火牆和廣告封鎖技術保護。 
+\n 
 \n您想要離開嗎？</string>
     <string name="exportSettingsError">匯出設定出錯</string>
     <string name="exportSettingsOk">設定被成功地匯出！</string>
@@ -945,14 +945,14 @@
     <string name="tab_for_alltime">所有的時間</string>
     <string name="tab_for_day">今日</string>
     <string name="tab_for_month">過去的單月</string>
-    <string name="techInfoAndroidOsPackages">負責系統應用程式流量之元套件。
-\n
+    <string name="techInfoAndroidOsPackages">負責系統應用程式流量之元套件。 
+\n 
 \n已包括的套件： {0}</string>
     <string name="techInfoDns">負責 DNS 流量之元套件。</string>
     <string name="techInfoError">當載入關於 {0} 的技術資訊時，錯誤已發生。</string>
     <string name="techInfoFormat">套件名稱：{0} 唯一識別碼（UID）：{1} 應用程式類型：{2} 版本：{3} 目標軟體開發套件（SDK）：{4} 首次的安裝時間：{5} 最近的更新時間：{6}</string>
-    <string name="techInfoRemovedAppsPackage">負責已移除的應用程式之元套件。
-\n
+    <string name="techInfoRemovedAppsPackage">負責已移除的應用程式之元套件。 
+\n 
 \n已包括的套件： {0}</string>
     <string name="text_copied_to_clipboard">文字已被複製到剪貼簿</string>
     <string name="third_party_cookies_disable_message">如果您啟用第三方的 cookies 之自毀，該選項將變為可用的</string>
