@@ -81,8 +81,8 @@
     <string name="apply">套用</string>
     <string name="apps_management">應用程式管理</string>
     <string name="apps_management_ad_blocking_disabled">如果您啟用廣告封鎖，該選項將變為可用的</string>
-    <string name="apps_management_allow_mobile">行動數據</string>
-    <string name="apps_management_allow_mobile_summary">允許行動數據之使用。</string>
+    <string name="apps_management_allow_mobile">行動網路</string>
+    <string name="apps_management_allow_mobile_summary">允許使用行動網路</string>
     <string name="apps_management_allow_off_screen_mobile">當螢幕關著時之行動數據</string>
     <string name="apps_management_allow_off_screen_mobile_summary">當裝置螢幕關著時，允許行動數據之使用。</string>
     <string name="apps_management_allow_off_screen_wifi">當螢幕關著時之 Wi-Fi 數據</string>
@@ -191,7 +191,7 @@
     <string name="checkUpdatesErrorResultMessage">更新已失敗。請稍後再試。</string>
     <string name="checkUpdatesManyResultMessage">{0} 過濾器已被更新：{1}</string>
     <string name="checkUpdatesOneResultMessage">1 過濾器已被更新：{0}</string>
-    <string name="checkUpdatesProgressDialogMessage">正在檢查更新。請稍候...</string>
+    <string name="checkUpdatesProgressDialogMessage">正在檢查更新。請稍候…</string>
     <string name="checkUpdatesProgressDialogTitle">正在檢查更新</string>
     <string name="checkUpdatesZeroResultMessage">您正在使用最新的過濾器版本。</string>
     <string name="check_connection">檢查連線</string>
@@ -199,7 +199,7 @@
     <string name="clearUserRulesButtonText">移除全部</string>
     <string name="clearWhitelistButtonText">移除全部</string>
     <string name="close">關閉</string>
-    <string name="cloudflare_public_dns_description">透過 Cloudflare 之免費的 DNS 服務</string>
+    <string name="cloudflare_public_dns_description">Cloudflare 提供的免費 DNS 服務</string>
     <string name="color_blind_mode">色盲的模式</string>
     <string name="confirmClearFilteringLogMessage">您確定您想要清除該過濾記錄嗎？</string>
     <string name="confirmClearUserFilterMessage">您確定您想要清除該使用者過濾器嗎？</string>
