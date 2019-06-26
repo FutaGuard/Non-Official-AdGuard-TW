@@ -2928,4 +2928,22 @@
   <data name="WriteToSupport" xml:space="preserve">
     <value>與支援團隊聯繫</value>
   </data>
+  <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.Comments" xml:space="preserve">
+    <value>AdGuard for Windows</value>
+  </data>
+  <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.FileDescription" xml:space="preserve">
+    <value>AdGuard for Windows</value>
+  </data>
+  <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.LegalCopyright" xml:space="preserve">
+    <value>Copyright © Adguard Software Ltd 2009-2019</value>
+  </data>
+  <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.LegalTrademarks" xml:space="preserve">
+    <value>Copyright © Adguard Software Ltd 2019</value>
+  </data>
+  <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.ProductName" xml:space="preserve">
+    <value>AdGuard for Windows</value>
+  </data>
+  <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.CompanyName" xml:space="preserve">
+    <value>Adguard Software Ltd</value>
+  </data>
 </root>
