@@ -56,7 +56,7 @@
         <br/> 在您按\'開啟設定\'之後，安全性設定將被打開。在那裡，於\"從儲存空間或 SD 卡安裝憑證\"上輕觸，然後找到那目錄並選擇 \"adguard.crt\" 以安裝該憑證。</string>
     <string name="all_apps">應用程式和瀏覽器</string>
     <string name="all_rights_reserved">AdGuard.com 保留所有的權利</string>
-    <string name="all_time_interval">所有的時間</string>
+    <string name="all_time_interval">所有時間</string>
     <string name="allowMobile">行動數據</string>
     <string name="allowOffScreenMobile">當螢幕關著時之行動數據</string>
     <string name="allowOffScreenWifi">當螢幕關著時之 Wi-Fi 數據</string>
@@ -178,13 +178,13 @@
     <string name="channelDescriptionApplicationUpdate">關於新的應用程式和過濾器更新之通知。</string>
     <string name="channelDescriptionFirewall">讓您管理網路存取之通知。</string>
     <string name="channelDescriptionLicenseStatus">關於您的授權狀態更改之通知。</string>
-    <string name="channelDescriptionOther">其它的通知</string>
+    <string name="channelDescriptionOther">其它通知</string>
     <string name="channelDescriptionOutboundProxy">往外的代理狀態之永久的通知。</string>
     <string name="channelDescriptionProtectionStatus">應用程式防護狀態和過濾統計資料之永久的通知。</string>
     <string name="channelNameApplicationUpdate">更新</string>
     <string name="channelNameFirewall">防火牆</string>
     <string name="channelNameLicenseStatus">授權狀態</string>
-    <string name="channelNameOther">其它的</string>
+    <string name="channelNameOther">其它</string>
     <string name="channelNameOutboundProxy">往外的代理</string>
     <string name="channelNameProtectionStatus">防護狀態</string>
     <string name="chart_period">期間</string>
@@ -207,7 +207,7 @@
     <string name="confirmDisableAllUserRulesMessage">您確定您想要停用全部的使用者規則嗎？</string>
     <string name="confirmEnableAllUserRulesMessage">您確定您想要啟用全部的使用者規則嗎？</string>
     <string name="content_type_label">內容類型</string>
-    <string name="continue_without_master">跳過快速的設定</string>
+    <string name="continue_without_master">跳過快速設定</string>
     <string name="cookies_value_header">輸入存活時間（TTL）：</string>
     <string name="copy">複製</string>
     <string name="cpu_background">CPU 背景</string>
@@ -223,7 +223,7 @@
     <string name="custom_dns">伺服器選擇</string>
     <string name="custom_dns_dialog_add_and_select">儲存並選擇</string>
     <string name="custom_dns_label">伺服器選擇</string>
-    <string name="custom_dns_name">自訂的</string>
+    <string name="custom_dns_name">自訂</string>
     <string name="custom_dns_preview">目前：%s</string>
     <string name="custom_dns_server_empty_name_error">輸入 DNS 名稱</string>
     <string name="custom_dns_server_error">輸入有效的 DNS 設定</string>
@@ -240,10 +240,10 @@
     <string name="custom_ip_address_disable_message">如果您啟用\"偽裝您的 IP 位址\"，該選項將變為可用的</string>
     <string name="custom_ip_address_error">IP 位址為無效的</string>
     <string name="custom_ip_address_summary">目前：%s</string>
-    <string name="custom_ip_address_title">自訂的 IP 位址</string>
+    <string name="custom_ip_address_title">自訂 IP 位址</string>
     <string name="custom_referer_error">參照位址為無效的</string>
     <string name="custom_referer_summary">目前：%s</string>
-    <string name="custom_referer_title">自訂的參照位址</string>
+    <string name="custom_referer_title">自訂參照位址</string>
     <string name="custom_referrer_disable_message">如果您啟用\"隱藏參照位址免於第三方\"，該選項將變為可用的</string>
     <string name="custom_user_agent_default_behavior">預設行為是從瀏覽器中移除識別資訊。留下空白以使用預設行為。</string>
     <string name="custom_user_agent_disable_message">如果您啟用\"隱藏您的使用者代理\"，該選項將變為可用的</string>
@@ -263,7 +263,7 @@
     <string name="default_proxy_not_defined">預設代理未被設定。請設定預設代理配置。</string>
     <string name="default_value">預設</string>
     <string name="delete">刪除</string>
-    <string name="deleted">[已移除的]</string>
+    <string name="deleted">[已移除]</string>
     <string name="dialog_clear_stats_text">您真地想要清除所有的統計資料嗎？</string>
     <string name="dialog_disable_filtering_log">當停用過濾記錄時，AdGuard 助理變為不可用的</string>
     <string name="disable">停用</string>
@@ -276,7 +276,7 @@
     <string name="disable_whitelist">停用白名單</string>
     <string name="disabled">已停用</string>
     <string name="disabled_mode_firewall_warning">防火牆功能於設定中已停用</string>
-    <string name="disconnect">斷線</string>
+    <string name="disconnect">中斷連線</string>
     <string name="discuss_link_title">討論</string>
     <string name="dns_answer_label">DNS 回應</string>
     <string name="dns_blocking_summary">透過重新路由它們到一個\"黑洞\"，封鎖廣告和追蹤伺服器</string>
@@ -288,7 +288,7 @@
     <string name="dns_module_disable_message">如果您啟用 DNS，該選項將為可用的</string>
     <string name="dns_module_disabled">如果您啟用 DNS 模組，該選項將變為可用的</string>
     <string name="dns_my_servers">我的 DNS 伺服器</string>
-    <string name="dns_other_summary">不被建議的</string>
+    <string name="dns_other_summary">不建議</string>
     <string name="dns_provider_ad_blocking_summary">封鎖廣告和追蹤伺服器</string>
     <string name="dns_provider_ad_blocking_tag">廣告封鎖</string>
     <string name="dns_provider_address">位址</string>
@@ -362,7 +362,7 @@
     <string name="error_enter_valid_email">請輸入一個有效的電子郵件地址。</string>
     <string name="error_no_spaces_allowed">無已允許的空格！</string>
     <string name="eula_agreement_text">透過繼續，您同意我們的<a href="{0}">終端用戶授權協定</a>和<a href="{1}">隱私政策</a>。</string>
-    <string name="eula_link_title">終端用戶授權協定</string>
+    <string name="eula_link_title">終端使用者授權協定</string>
     <string name="event_type_connection">連線</string>
     <string name="event_type_dns">DNS 請求</string>
     <string name="event_type_label">事件類型</string>
@@ -378,8 +378,8 @@
     <string name="exportSettingsOk">設定被成功地匯出！</string>
     <string name="exportUserRulesButtonText">匯出</string>
     <string name="exportUserRulesErrorResultMessage">匯出使用者規則出錯</string>
-    <string name="exportUserRulesProgressDialogMessage">正在載入...</string>
-    <string name="exportUserRulesProgressDialogTitle">匯出正在進行中</string>
+    <string name="exportUserRulesProgressDialogMessage">正在載入…</string>
+    <string name="exportUserRulesProgressDialogTitle">正在匯出</string>
     <string name="exportUserRulesSuccessResultMessage">使用者過濾器被成功地匯出</string>
     <string name="export_log_error">當匯出記錄檔案時，非預期性的錯誤已發生</string>
     <string name="export_log_progress_dialog_title">正在匯出記錄檔案和系統資訊</string>
@@ -388,9 +388,9 @@
     <string name="export_settings_dialog_text">一個 *.json 檔案將被産生，包含所有您的設定、包括使用者過濾器之已啟用的過濾器。為了於另一台裝置上使用它們，只要使用\"匯入設定\"選單項目。</string>
     <string name="export_settings_include_license">包括授權資料</string>
     <string name="faqMenuTitle">FAQ</string>
-    <string name="feedback">回饋意見</string>
+    <string name="feedback">意見回饋</string>
     <string name="feedbackTypeBugReport">程式錯誤報告</string>
-    <string name="feedbackTypeCustom">其它的</string>
+    <string name="feedbackTypeCustom">其它</string>
     <string name="feedbackTypeFeatureRequest">功能請求</string>
     <string name="feedbackTypeIncorrectBlocking">不正確的封鎖</string>
     <string name="feedbackTypeMissedAd">漏失的廣告或追蹤器</string>
@@ -525,11 +525,10 @@
     <string name="learn_more">了解更多</string>
     <string name="license_expire_after_days">您的授權將 在 %d 日後到期</string>
     <string name="license_expired">授權已到期</string>
-    <string name="license_lifetime">您的授權有效 
-\n直到世界末日</string>
+    <string name="license_lifetime">您的授權永久有效</string>
     <string name="license_title">授權</string>
     <string name="license_valid_until">直到 %s 為止</string>
-    <string name="license_valid_until_end_life">直到世界末日</string>
+    <string name="license_valid_until_end_life">永久</string>
     <string name="log_details">記錄細節</string>
     <string name="log_details_filter_pattern">過濾器 %d</string>
     <string name="log_level_summary">該設定控制記錄輸出。無好的理由，不要更改它。</string>
@@ -569,18 +568,18 @@
     <string name="navigation_battery">電池用量</string>
     <string name="navigation_discuss">討論</string>
     <string name="navigation_dns">DNS 過濾</string>
-    <string name="navigation_exit">離開</string>
+    <string name="navigation_exit">結束</string>
     <string name="navigation_filtering_log">過濾記錄</string>
     <string name="navigation_home">首頁</string>
     <string name="navigation_license_status">授權狀態</string>
-    <string name="navigation_send_feedback">傳送回饋意見</string>
+    <string name="navigation_send_feedback">傳送意見回饋</string>
     <string name="navigation_settings">設定</string>
     <string name="navigation_support">支援</string>
     <string name="network_type_any">所有的數據</string>
     <string name="network_type_mobile">行動</string>
     <string name="network_type_wifi">Wi-Fi</string>
     <string name="next">下一步</string>
-    <string name="nightly_channel">夜間版（不穩定的）</string>
+    <string name="nightly_channel">Nightly（不穩定）</string>
     <string name="noAccessToStorageMessage">無對儲存空間之存取權限</string>
     <string name="no_browser_error">無應用程式可執行該行動！</string>
     <string name="no_data">無數據</string>
@@ -591,15 +590,15 @@
     <string name="no_rule_added">無已加入的規則</string>
     <string name="no_thanks">不，謝謝</string>
     <string name="not_browsers">僅應用程式</string>
-    <string name="not_now">不是現在</string>
+    <string name="not_now">稍後再說</string>
     <string name="notification_icon_disable_message">如果您啟用\"顯示通知\"，該選項將變為可用的</string>
     <string name="notification_settings">通知設定</string>
     <string name="notification_statistics_pattern">今日 ● 已封鎖的：%1$s / 已節省的數據：%2$s</string>
     <string name="number_of_minutes_value_error_message">輸入分鐘數</string>
     <string name="number_second_value_error_message">輸入秒數</string>
-    <string name="off">關著</string>
+    <string name="off">關</string>
     <string name="ok">確定</string>
-    <string name="on">開著</string>
+    <string name="on">開</string>
     <string name="onboarding_policy_text">透過繼續使用 AdGuard，您同意該<a href="%1$s">終端用戶授權協定</a>和<a href="%2$s">隱私政策</a>。</string>
     <string name="openDownloadedFileError">當打開該已下載的檔案時之非預期性的錯誤。請手動地下載該更新檔案。</string>
     <string name="open_button">開啟</string>
