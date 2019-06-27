@@ -124,16 +124,16 @@
     <value>正在檢查更新...</value>
   </data>
   <data name="AboutDialogCheckingForUpdateError" xml:space="preserve">
-    <value>更新檢查已失敗。請檢查您的網際網路連線。</value>
+    <value>檢查更新失敗。請檢查您的網際網路連線。</value>
   </data>
   <data name="AboutDialogDownloadingUpdate" xml:space="preserve">
     <value>正在下載更新...</value>
   </data>
   <data name="AboutDialogEmail" xml:space="preserve">
-    <value>電子郵件地址</value>
+    <value>電子郵件位置</value>
   </data>
   <data name="AboutDialogEula" xml:space="preserve">
-    <value>授權協定</value>
+    <value>許可協議</value>
   </data>
   <data name="AboutDialogForum" xml:space="preserve">
     <value>討論</value>
@@ -142,16 +142,16 @@
     <value>您正在使用最新版的 AdGuard。</value>
   </data>
   <data name="AboutDialogOfficialSite" xml:space="preserve">
-    <value>官方的網站</value>
+    <value>官方網站</value>
   </data>
   <data name="AboutDialogPrivacyPolicy" xml:space="preserve">
     <value>隱私政策</value>
   </data>
   <data name="AboutDialogProgramProtected" xml:space="preserve">
-    <value>警告：此程式受版權和國際慣例保護。非法複製或此程式或其部分之散佈可能導致嚴重的行政和刑事處罰。</value>
+    <value>警告：此程式受版權和國際公約保護。非法複製或此程式或其部分之散佈可能導致嚴重的行政和刑事處罰。</value>
   </data>
   <data name="AboutDialogStartingUpdate" xml:space="preserve">
-    <value>正在啟動更新...</value>
+    <value>正在安裝更新...</value>
   </data>
   <data name="AboutDialogTitle" xml:space="preserve">
     <value>關於</value>
@@ -175,13 +175,13 @@
     <value>有什麼新事物嗎？</value>
   </data>
   <data name="Activate" xml:space="preserve">
-    <value>啟動</value>
+    <value>啟用</value>
   </data>
   <data name="Active" xml:space="preserve">
     <value>有效的</value>
   </data>
   <data name="AdBlockerSettingAddFilterButton" xml:space="preserve">
-    <value>增加過濾器</value>
+    <value>新增過濾器</value>
   </data>
   <data name="AdBlockerSettingRemoveButton" xml:space="preserve">
     <value>移除</value>
@@ -241,13 +241,13 @@
     <value>廣告封鎖器</value>
   </data>
   <data name="AdBlockerSettingsTitleDisable" xml:space="preserve">
-    <value>禁用廣告封鎖器</value>
+    <value>停用廣告封鎖器</value>
   </data>
   <data name="AdBlockerSettingsTitleEnable" xml:space="preserve">
     <value>啟用廣告封鎖器</value>
   </data>
   <data name="AdBlockerSettingsTrustText" xml:space="preserve">
-    <value>信任該過濾器</value>
+    <value>信任此過濾器</value>
   </data>
   <data name="AdBlockerSettingsTrustedToolTipText" xml:space="preserve">
     <value>它為受信任的過濾器</value>
@@ -286,22 +286,22 @@
     <value>搜尋</value>
   </data>
   <data name="AddBrowsersDialogTitle" xml:space="preserve">
-    <value>增加應用程式</value>
+    <value>加入應用程式</value>
   </data>
   <data name="AddRuleDialogAddingButton" xml:space="preserve">
-    <value>增加規則</value>
+    <value>新增規則</value>
   </data>
   <data name="AddRuleDialogOptionAllWebsites" xml:space="preserve">
-    <value>對所有的網站套用該規則</value>
+    <value>對所有的網站套用此規則</value>
   </data>
   <data name="AddRuleDialogOptionApp" xml:space="preserve">
-    <value>僅對 "{0}" 請求套用</value>
+    <value>僅對 "{0}" 套用請求</value>
   </data>
   <data name="AddRuleDialogOptionImportant" xml:space="preserve">
     <value>給予該規則一個較高的優先權</value>
   </data>
   <data name="AddRuleDialogOptionThirdParty" xml:space="preserve">
-    <value>僅對第三方的請求套用</value>
+    <value>僅套用第三方的請求</value>
   </data>
   <data name="AddRuleDialogOptions" xml:space="preserve">
     <value>選項</value>
@@ -349,7 +349,7 @@
     <value>如果被啟用，AdGuard 將顯示它自身的彈出式視窗通知</value>
   </data>
   <data name="AdvancedSettingsEnablePopupNotificationsName" xml:space="preserve">
-    <value>啟用 AdGuard 彈出式視窗通知</value>
+    <value>開啟 AdGuard 彈出式視窗通知</value>
   </data>
   <data name="AdvancedSettingsFilteringExcludePathDescription" xml:space="preserve">
     <value>AdGuard 將不過濾處於已明確指定的路徑之應用程式。
@@ -423,13 +423,13 @@
     <value>家長監控</value>
   </data>
   <data name="AllRightReservedPhrase" xml:space="preserve">
-    <value>保留所有的權利。</value>
+    <value>保留所有權利。</value>
   </data>
   <data name="AppInitDialogFilterCountersDescription" xml:space="preserve">
     <value>有很多正在監控您的線上活動之公司。啟用該過濾器，然後忘掉有關被追蹤。</value>
   </data>
   <data name="AppInitDialogFilterCountersTitle" xml:space="preserve">
-    <value>用於計數器和網路分析之過濾器</value>
+    <value>用於計數器和網頁分析的過濾器</value>
   </data>
   <data name="ApplicationListDialogButton" xml:space="preserve">
     <value>確定</value>
@@ -438,16 +438,16 @@
     <value>已封鎖的</value>
   </data>
   <data name="BrowserApiUserFilterChangedCaption" xml:space="preserve">
-    <value>使用者過濾器被更改</value>
+    <value>使用者過濾器已更改</value>
   </data>
   <data name="BrowserApiUserFilterChangedMessageRuleAdded" xml:space="preserve">
-    <value>一項新的規則已被加至使用者過濾器中：</value>
+    <value>新規則已新增至使用者過濾器中：</value>
   </data>
   <data name="BrowserApiUserFilterChangedMessageRuleRemoved" xml:space="preserve">
-    <value>一項規則已從使用者過濾器中被移除：</value>
+    <value>規則已從使用者過濾器中刪除：</value>
   </data>
   <data name="BrowserApiUserFilterChangedOpenUserFilterButtonText" xml:space="preserve">
-    <value>開啟編輯器</value>
+    <value>開啟編輯模式</value>
   </data>
   <data name="BrowserApiUserFilterProtectionDisabled" xml:space="preserve">
     <value>防護已於 {0} 被禁用</value>
@@ -465,7 +465,7 @@
     <value>過濾 HTTPS 連線</value>
   </data>
   <data name="BrowserSettingsNetworkAccess" xml:space="preserve">
-    <value>禁用網路存取</value>
+    <value>阻擋網路存取</value>
   </data>
   <data name="BrowserSettingsTdiWarning" xml:space="preserve">
     <value>透過使用傳輸驅動程式介面（TDI）驅動程式，新式的用戶介面（UI）應用程式無法被過濾</value>
