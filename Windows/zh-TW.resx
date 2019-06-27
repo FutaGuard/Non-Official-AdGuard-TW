@@ -313,7 +313,7 @@
     <value>規則文字</value>
   </data>
   <data name="AddRuleDialogTitle" xml:space="preserve">
-    <value>正在增加規則</value>
+    <value>正在新增規則</value>
   </data>
   <data name="AdguardVersionTypeBetaName" xml:space="preserve">
     <value>測試版</value>
@@ -337,7 +337,7 @@
     <value>更改這些進階的設定可能損害 AdGuard 的穩定性、安全性和性能。僅於您確定您正在做什麼事下才應該繼續。</value>
   </data>
   <data name="AdvancedSettingsDialogTitle" xml:space="preserve">
-    <value>進階的設定</value>
+    <value>進階設定</value>
   </data>
   <data name="AdvancedSettingsEnableFilterEditorTooltipDescription" xml:space="preserve">
     <value>如果被啟用，在過濾器編輯器中用於廣告過濾器規則之提示框將被顯示</value>
@@ -492,19 +492,19 @@
     <value>顯示全部</value>
   </data>
   <data name="BrowsersSettingsShowInstalledOnlyButtonText" xml:space="preserve">
-    <value>僅顯示已安裝的</value>
+    <value>只顯示已安裝的</value>
   </data>
   <data name="BrowsersSettingsTitle" xml:space="preserve">
     <value>已過濾的應用程式</value>
   </data>
   <data name="BrowsingSecuritySettingsDescription" xml:space="preserve">
-    <value>瀏覽安全模組保護您免於惡意的和網路釣魚的網站。它將不讓您安裝惡意軟體或成為詐騙的受害者。</value>
+    <value>瀏覽安全模組保護您免於惡意網站和釣魚網站。它將不讓您安裝惡意軟體或成為詐騙的受害者。</value>
   </data>
   <data name="BrowsingSecuritySettingsEnableHelp" xml:space="preserve">
     <value>為了防備線上威脅之防護，啟用該模組</value>
   </data>
   <data name="BrowsingSecuritySettingsEnableSound" xml:space="preserve">
-    <value>啟用音效通知</value>
+    <value>開啟音效通知</value>
   </data>
   <data name="BrowsingSecuritySettingsEnableSoundDescription" xml:space="preserve">
     <value>您將收到有關對惡意的和網路釣魚的網站之已封鎖的請求之音效通知。</value>
@@ -886,7 +886,7 @@
     <value>清除記錄</value>
   </data>
   <data name="FilteringLogContextMenuBlockRequestTitle" xml:space="preserve">
-    <value>Block request...</value>
+    <value>阻擋的請求...</value>
   </data>
   <data name="FilteringLogContextMenuCopyNameTitle" xml:space="preserve">
     <value>Copy record's name</value>
@@ -2929,21 +2929,21 @@
     <value>與支援團隊聯繫</value>
   </data>
   <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.Comments" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.FileDescription" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.LegalCopyright" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.LegalTrademarks" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.ProductName" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Adguard.UI.resources.zh-TW.dll.Versions.1.CompanyName" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
 </root>
