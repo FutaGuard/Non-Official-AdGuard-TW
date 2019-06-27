@@ -613,7 +613,7 @@
     <string name="outbound_proxy_connected_to_summary">裝置流量被路由通過該代理伺服器</string>
     <string name="outbound_proxy_disable_message">如果您啟用往外的代理，該選項將為可用的</string>
     <string name="outbound_proxy_disconnected_from">已從 %s 斷線</string>
-    <string name="outbound_proxy_disconnected_from_summary">輕觸以重新連線</string>
+    <string name="outbound_proxy_disconnected_from_summary">點選來重新連線</string>
     <string name="outbound_proxy_explanation">代理伺服器是隧穿所有的網路請求通過它自身之不同的電腦。透過 AdGuard 的幫助，您可路由您的裝置之流量通過任何的代理。</string>
     <string name="outbound_proxy_no_server">請增加至少一個代理伺服器</string>
     <string name="outbound_proxy_not_connected">未被連線至一個代理</string>
@@ -715,7 +715,7 @@
     <string name="privacy_positive_button">封鎖它們！</string>
     <string name="privacy_summary">封鎖超過 4,000 個線上監視您的每個行動之追蹤伺服器。</string>
     <string name="privacy_title">保護您個人的資料</string>
-    <string name="problematic_device_message">輕觸以了解更多</string>
+    <string name="problematic_device_message">點選來了解更多</string>
     <string name="problematic_device_title">您的系統之電池省電方式可影響 AdGuard 的運作</string>
     <string name="progressDialogStartProtectionMessage">正在準備啟動防護...</string>
     <string name="progressDialogStopProtectionMessage">正在準備停止防護...</string>
@@ -726,9 +726,9 @@
     <string name="promo_notification_malware_protection_disabled_title">☣️ 惡意軟體防護已停用</string>
     <string name="promo_notification_protection_level_low_title"/>
     <string name="promo_notification_tap_activate_free_trial">輕觸以啟動您的免費之試用。無必須的信用卡資訊。</string>
-    <string name="promo_notification_tap_details">對細節輕觸</string>
-    <string name="promo_notification_tap_power_up">輕觸以啟動</string>
-    <string name="promo_notification_tap_settings">對設定輕觸</string>
+    <string name="promo_notification_tap_details">點選顯示詳細資訊</string>
+    <string name="promo_notification_tap_power_up">點選來啟動</string>
+    <string name="promo_notification_tap_settings">點選來設定</string>
     <string name="promo_notification_try_premium_feature_title">嘗試進階版功能</string>
     <string name="promo_premium_phishing_protection">惡意軟體防護</string>
     <string name="promo_small_percent_text">已封鎖的追蹤器</string>
@@ -741,7 +741,7 @@
     <string name="protection_level_medium">中級的防護等級</string>
     <string name="protection_level_premium_license">進階版授權</string>
     <string name="protection_level_title">防護等級</string>
-    <string name="protection_paused_tap_to_resume">輕觸以恢復</string>
+    <string name="protection_paused_tap_to_resume">點選來繼續</string>
     <string name="protection_preparing">正在準備開始防護</string>
     <string name="protection_running">正在封鎖廣告和追蹤器</string>
     <string name="protection_statistics_empty">無被記錄於目前會期（session）之統計資料</string>
