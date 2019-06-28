@@ -148,7 +148,7 @@
     <value>隱私政策</value>
   </data>
   <data name="AboutDialogProgramProtected" xml:space="preserve">
-    <value>警告：此程式受版權和國際公約保護。非法複製或此程式或其部分之散佈可能導致嚴重的行政和刑事處罰。</value>
+    <value>警告：此程式受版權和國際公約保護。非法複製或散佈此程式（全部或部分）可能導致嚴重的行政和刑事處罰。</value>
   </data>
   <data name="AboutDialogStartingUpdate" xml:space="preserve">
     <value>正在安裝更新...</value>
@@ -157,7 +157,7 @@
     <value>關於</value>
   </data>
   <data name="AboutDialogUpdateAvailable" xml:space="preserve">
-    <value>程式更新為可用的！</value>
+    <value>有可用的更新！</value>
   </data>
   <data name="AboutDialogUpdateButton" xml:space="preserve">
     <value>更新</value>
@@ -190,7 +190,7 @@
     <value>版本：</value>
   </data>
   <data name="AdBlockerSettingsAutoActivate" xml:space="preserve">
-    <value>自動地啟動特定語言的過濾器</value>
+    <value>自動啟動特定語言的過濾器</value>
   </data>
   <data name="AdBlockerSettingsAutoActivateHelp" xml:space="preserve">
     <value>特定語言的過濾器之自動的啟動是一個對您訪問的網站合適地轉換特定語言的過濾器之有適應性的機制。</value>
