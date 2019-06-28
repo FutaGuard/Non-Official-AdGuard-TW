@@ -12,7 +12,7 @@
     <string name="abc_searchview_description_clear">清除查詢</string>
     <string name="abc_searchview_description_query">搜尋查詢</string>
     <string name="abc_searchview_description_search">搜尋</string>
-    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_submit">送出查詢</string>
     <string name="abc_searchview_description_voice">語音搜尋</string>
     <string name="abc_shareactionprovider_share_with">選擇分享對象</string>
     <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
