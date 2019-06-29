@@ -30,7 +30,7 @@
     "dhcp_form_lease_title": "動態主機設定協定（DHCP）租賃時間（以秒數）",
     "dhcp_form_lease_input": "租賃持續時間",
     "dhcp_interface_select": "選擇動態主機設定協定（DHCP）介面",
-    "dhcp_hardware_address": "硬體位址",
+    "dhcp_hardware_address": "實體位址",
     "dhcp_ip_addresses": "IP 位址",
     "dhcp_table_hostname": "主機名稱",
     "dhcp_table_expires": "到期",
