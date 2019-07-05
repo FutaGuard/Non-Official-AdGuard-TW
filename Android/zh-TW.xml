@@ -888,7 +888,7 @@
     <string name="settings_watchdog_interval">看門狗週期</string>
     <string name="settings_watchdog_interval_message">在另一個程序中啟動一個保護服務，其檢查主服務是否活躍的，並且如果必要的話重新啟動它。零停用它。</string>
     <string name="settings_watchdog_interval_preview">目前：{0}</string>
-    <string name="settings_were_reset">設定已被成功地重置</string>
+    <string name="settings_were_reset">設定重置成功</string>
     <string name="settings_whitelist">白名單</string>
     <string name="seven_days_interval">7 日</string>
     <string name="shortcut_outbound_proxy_toggle">切換往外的代理</string>
