@@ -20,6 +20,16 @@
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Search…</string>
     <string name="abc_searchview_description_clear">Clear query</string>
     <string name="abc_searchview_description_query">Search query</string>
@@ -43,6 +53,7 @@
     <string name="activationNotExistsMessage">Please check that you have entered a valid Premium license key.</string>
     <string name="activationSuccessMessage">Now you have AdGuard Premium</string>
     <string name="activationTooManyDevicesMessage">You have reached the number of devices allowed to use AdGuard under this license. Upgrade this license key or purchase a new one.</string>
+    <string name="add">Add</string>
     <string name="addCustomFilterError">Error adding the custom filter</string>
     <string name="addCustomFilterSuccess">The custom filter added successfully</string>
     <string name="addLogsLabel">Send detailed system info</string>
@@ -50,6 +61,7 @@
     <string name="addUserRuleButtonText">Add rule</string>
     <string name="addUserRuleDialogText">Filtering rule:</string>
     <string name="add_custom_dns">Add custom DNS server</string>
+    <string name="add_dns_filter_error">Error adding DNS filter</string>
     <string name="add_orbot_integration">Integrate with Tor</string>
     <string name="add_pre_defined_dns">Choose DNS server from the list</string>
     <string name="add_proxy">Add proxy server</string>
@@ -62,10 +74,11 @@
     <string name="adguard_copyright">© 2009–%s. AdGuard Software Ltd.</string>
     <string name="adguard_dns_description">Removes ads and protects your device from malware</string>
     <string name="adguard_family_dns_description">AdGuard DNS + SafeSearch and adult content blocking</string>
+    <string name="adguard_sdn_filter_name">AdGuard Simplified domain names filter</string>
     <string name="adguard_settings">AdGuard Settings</string>
     <string name="advancedCertificateInstallText">"The certificate is saved to this directory:&lt;br/>&lt;b>%s&lt;/b>&lt;br/>After you press 'OPEN SETTINGS', Security settings will be opened. Tap on \"Install certificate from storage or SD card\" there, then find the directory and choose \"adguard.crt\" to install the certificate."</string>
     <string name="all_apps">Apps and browsers</string>
-    <string name="all_rights_reserved">All rights reserved. AdGuard.com</string>
+    <string name="all_rights_reserved_text">All rights reserved. &lt;a href=\"%s\">AdGuard.com&lt;/a></string>
     <string name="all_time_interval">All time</string>
     <string name="allowMobile">Cellular data</string>
     <string name="allowOffScreenMobile">Cellular data when the screen is off</string>
@@ -120,7 +133,7 @@
     <string name="app_languages">App languages</string>
     <string name="app_name">AdGuard</string>
     <string name="app_version" formatted="false">v.%s (%s)</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="applicationUpdateAvailableNotificationText">AdGuard version {0} is now available</string>
     <string name="applicationUpdateAvailableNotificationTitle">AdGuard Update</string>
     <string name="applicationUpdateButtonNotificationText">Update</string>
@@ -144,6 +157,7 @@
     <string name="apps_management_disabled_firewall">This option will become available if you enable Firewall</string>
     <string name="apps_management_filtering_disabled">This option will become available if you enable filtering</string>
     <string name="apps_management_https_filtering_disabled">This option will become available if you enable HTTPS filtering</string>
+    <string name="apps_management_self_filtering_warning">AdGuard cannot filter itself. It would lead to inconsistent performance and cause issues for other apps.</string>
     <string name="apps_management_settings">Firewall settings</string>
     <string name="apps_management_show_blocked_notification">Firewall notifications</string>
     <string name="apps_management_show_blocked_notification_summary">Ask for user permission every time AdGuard blocks network access for the foreground app.</string>
@@ -175,7 +189,6 @@
     <string name="automation_dns_server_message">DNS server changed</string>
     <string name="automation_dns_toggle_message">Changing DNS filtering state</string>
     <string name="automation_error_message">Invalid automation intent</string>
-    <string name="automation_item_description">AdGuard can expose an API that you can use for setting up custom complicated automation rules via apps like Tasker, AutomateIt, etc.</string>
     <string name="automation_outbound_proxy_message">Outbound Proxy changed</string>
     <string name="automation_outbound_proxy_toggle_message">Changing Outbound Proxy state</string>
     <string name="automation_password_change_dialog_title">Set password</string>
@@ -187,6 +200,7 @@
     <string name="automation_start_message">Starting protection</string>
     <string name="automation_stop_message">Stopping protection</string>
     <string name="automation_update_message">Updating filters</string>
+    <string name="automation_update_message_userscripts">Updating userscripts</string>
     <string name="available_for_premium_only">Available only for Premium app version</string>
     <string name="bannerStatsTextViewText">Blocked ads</string>
     <string name="bannerStatsValueTextViewDefaultText">0</string>
@@ -217,7 +231,7 @@
     <string name="blocked_threats">Threats blocked</string>
     <string name="blocked_trackers">Trackers blocked</string>
     <string name="blocked_url_label">Blocked URL</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="browseButtonText">Browse…</string>
     <string name="browser_api_title">Browser API</string>
     <string name="browsers">Only browsers</string>
@@ -244,12 +258,10 @@
     <string name="channelNameOther">Other</string>
     <string name="channelNameOutboundProxy">Outbound Proxy</string>
     <string name="channelNameProtectionStatus">Protection Status</string>
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chart_period">Period</string>
     <string name="chart_selected_toast_pattern">%1$s ● %2$s</string>
-    <string name="checkUpdatesErrorResultMessage">Update failed. Please try again later.</string>
-    <string name="checkUpdatesManyResultMessage">{0} filters have been updated:{1}</string>
-    <string name="checkUpdatesOneResultMessage">One filter has been updated:{0}</string>
     <string name="checkUpdatesProgressDialogMessage">Checking for updates. Please wait…</string>
     <string name="checkUpdatesProgressDialogTitle">Checking for updates</string>
     <string name="checkUpdatesZeroResultMessage">You are using the most recent versions of filters.</string>
@@ -295,6 +307,8 @@
     <string name="custom_filter_dialog_add">Add</string>
     <string name="custom_filter_dialog_title">New custom filter</string>
     <string name="custom_filter_dialog_title_error">Title is required</string>
+    <string name="custom_filter_size_validation_warning">Downloaded filter is too large and may dramatically slow down AdGuard performance. Are you sure you want to continue?</string>
+    <string name="custom_filter_size_validation_warning_title">Filter is too large</string>
     <string name="custom_filter_title">Title</string>
     <string name="custom_ip_address_disable_message">This option will become available if you enable \"Mask your IP address\"</string>
     <string name="custom_ip_address_error">IP Address is not valid</string>
@@ -338,12 +352,26 @@
     <string name="disconnect">Disconnect</string>
     <string name="discuss_link_title">Discuss</string>
     <string name="dns_answer_label">DNS Answer</string>
-    <string name="dns_blocking_summary">Blocks ads and tracking servers by re-routing them to a \"blackhole\"</string>
+    <string name="dns_authority_label">DNS Authority</string>
+    <string name="dns_blocking_summary_no_filters">"Blocks ads and tracking servers by re-routing them to a \"blackhole\"
+No filters enabled"</string>
     <string name="dns_blocking_title">DNS requests blocking</string>
     <string name="dns_description">"Domain Name System (DNS) servers are the Internet's equivalent of a phone book. They maintain a directory of domain names and translate them to Internet Protocol (IP) addresses."</string>
     <string name="dns_encrypted_server_properties">Properties</string>
+    <string name="dns_filter_add_dialog_title">Enter DNS Filter name</string>
+    <string name="dns_filter_delete_message">Are you sure you want to delete this DNS filter?</string>
+    <string name="dns_filter_dialog_title">New DNS filter</string>
+    <string name="dns_filter_downloaded_pattern">Last downloaded %s</string>
+    <string name="dns_filter_new">New DNS Filter</string>
+    <string name="dns_filter_rules_count">Rules count: %d</string>
+    <string name="dns_filter_size_validation_warning">Downloaded DNS filter is too large and may dramatically slow down AdGuard performance. Are you sure you want to continue?</string>
+    <string name="dns_filter_size_validation_warning_title">DNS filter is too large</string>
+    <string name="dns_filter_title">Name</string>
+    <string name="dns_filter_validation_warning">"Downloaded content doesn't look like a DNS filter. Are you sure you want to continue?"</string>
     <string name="dns_filtering">DNS Filtering</string>
     <string name="dns_filtering_help">About DNS filtering</string>
+    <string name="dns_filters_label">DNS Filters</string>
+    <string name="dns_filters_summary">Manage Filters</string>
     <string name="dns_module_disable_message">This option will be available if you enable DNS</string>
     <string name="dns_module_disabled">This option will become available if you enable the DNS module</string>
     <string name="dns_my_servers">My DNS servers</string>
@@ -370,6 +398,7 @@
     <string name="dns_resolver_parallel_queries">Use parallel queries to speed up resolving by simultaneously querying all upstream servers</string>
     <string name="dns_resolver_upstreams_hint">IP, sdns://, https:// or tls://</string>
     <string name="dns_resolver_upstreams_title">DNS upstreams one per line</string>
+    <string name="dns_response_label">DNS Response Code</string>
     <string name="dns_secure_title">Secure DNS</string>
     <string name="dns_select_server">Select</string>
     <string name="dns_server_add_dialog_title">Enter DNS Server</string>
@@ -383,7 +412,10 @@
     <string name="dns_system_default_summary">Use system default DNS servers provided by your ISP (Internet Service Provider)</string>
     <string name="dns_system_default_title">System default</string>
     <string name="dns_traffic_name">DNS</string>
+    <string name="dns_upstream_label">DNS Upstream</string>
+    <string name="dns_user_filter">DNS User Filter</string>
     <string name="dns_warning_description">DNS module cannot be used with the \"Proxy with manual setup\" filtering mode</string>
+    <string name="dns_warning_no_filters">No filters enabled. Enable some.</string>
     <string name="dnscrypt_invalid_server">Invalid DNS server</string>
     <string name="dnscrypt_resolver_stamp">Resolver SDNS stamp</string>
     <string name="dnscrypt_resolver_stamp_hint">sdns://</string>
@@ -464,6 +496,8 @@ Do you want to exit?"</string>
     <string name="export_settings">Export settings</string>
     <string name="export_settings_dialog_text">A *.json file will be generated, containing all your settings, enabled filters including the user filter. To use them on another device just use \"Import settings\" menu item.</string>
     <string name="export_settings_include_license">Include license data</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="faqMenuTitle">FAQ</string>
     <string name="feedback">Feedback</string>
     <string name="feedbackTypeBugReport">Bug report</string>
@@ -552,6 +586,7 @@ No blocking in apps"</string>
     <string name="get_premium">Get Premium</string>
     <string name="gmsWarningTitle">This package can be used by third-party apps to load Google ads. Disabling ad blocking or filtering may result in unblocking some of the in-app ads.</string>
     <string name="google_dns_description">Free alternative DNS service by Google</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_ip_address_summary">Tries to trick websites into believing that you have a different IP address.</string>
     <string name="hide_ip_address_title">Mask your IP address</string>
     <string name="hide_referer_summary">Prevent third-parties from knowing what website you are visiting.</string>
@@ -601,7 +636,7 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="joke_phrase_0">"It's time to reload your anti-ad gun!"</string>
     <string name="joke_phrase_1">Oh no :(</string>
     <string name="joke_phrase_2">Get AdGuard, feed it ads</string>
-    <string name="joke_phrase_3">One Key to block them all</string>
+    <string name="joke_phrase_3">One key to block them all</string>
     <string name="label_version">Version</string>
     <string name="learn_more">Learn more</string>
     <string name="license_expire_after_days">"Your license will
@@ -622,36 +657,6 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="manuallyUpdateDialogTitle">Update failed to start automatically.</string>
     <string name="manually_certificate_install_open_settings">Open settings</string>
     <string name="marketing_consent">Allow us to send you infrequent updates about AdGuard? You can unsubscribe any time.</string>
-    <item type="string" name="mdtp_ampm_circle_radius_multiplier">0.15</item>
-    <string name="mdtp_cancel">@android:string/cancel</string>
-    <item type="string" name="mdtp_circle_radius_multiplier">0.82</item>
-    <item type="string" name="mdtp_circle_radius_multiplier_24HourMode">0.85</item>
-    <string name="mdtp_day_of_week_label_typeface">sans-serif-light</string>
-    <string name="mdtp_day_picker_description">Month grid of days</string>
-    <string name="mdtp_deleted_key">%1$s deleted</string>
-    <string name="mdtp_done_label">Done</string>
-    <string name="mdtp_from">FROM</string>
-    <string name="mdtp_hour_picker_description">Hours circular slider</string>
-    <string name="mdtp_item_is_selected">%1$s selected</string>
-    <string name="mdtp_minute_picker_description">Minutes circular slider</string>
-    <item type="string" name="mdtp_numbers_radius_multiplier_inner">0.6</item>
-    <item type="string" name="mdtp_numbers_radius_multiplier_normal">0.81</item>
-    <item type="string" name="mdtp_numbers_radius_multiplier_outer">0.83</item>
-    <string name="mdtp_ok">@android:string/ok</string>
-    <string name="mdtp_radial_numbers_typeface">sans-serif</string>
-    <string name="mdtp_sans_serif">sans-serif</string>
-    <string name="mdtp_select_day">Select month and day</string>
-    <string name="mdtp_select_hours">Select hours</string>
-    <string name="mdtp_select_minutes">Select minutes</string>
-    <string name="mdtp_select_year">Select year</string>
-    <item type="string" name="mdtp_selection_radius_multiplier">0.16</item>
-    <item type="string" name="mdtp_text_size_multiplier_inner">0.11</item>
-    <item type="string" name="mdtp_text_size_multiplier_normal">0.12</item>
-    <item type="string" name="mdtp_text_size_multiplier_outer">0.08</item>
-    <string name="mdtp_time_placeholder">--</string>
-    <string name="mdtp_time_separator">:</string>
-    <string name="mdtp_to">TO</string>
-    <string name="mdtp_year_picker_description">Year list</string>
     <string name="messageEditTextErrorMessage">Please enter your message.</string>
     <string name="messageEditTextLabel">Description</string>
     <string name="miscellaneous_title">Miscellaneous</string>
@@ -676,6 +681,7 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="move_to_system_store_success">The certificate has been moved to the system store</string>
     <string name="move_to_system_summary">This is required to filter HTTPS in non-browser apps on Android 7 and newer</string>
     <string name="move_to_system_title">Move to the system store</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="navigation_about">About</string>
     <string name="navigation_apps_management">Apps Management</string>
     <string name="navigation_battery">Battery Usage</string>
@@ -713,7 +719,7 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="off">Off</string>
     <string name="ok">Ok</string>
     <string name="on">On</string>
-    <string name="onboarding_policy_text">By continuing to use AdGuard you agree to the &lt;a href=\"%1$s\">EULA&lt;/a> and &lt;a href=\"%2$s\">privacy policy&lt;/a>.</string>
+    <string name="onboarding_policy_text">By continuing to use AdGuard, you agree to the &lt;a href=\"%1$s\">EULA&lt;/a> and &lt;a href=\"%2$s\">privacy policy&lt;/a>.</string>
     <string name="openDownloadedFileError">Unexpected error while opening the downloaded file. Please download the update file manually.</string>
     <string name="open_button">Open</string>
     <string name="open_dns_description">DNS server that protects your device from malware</string>
@@ -736,7 +742,7 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="packageViewFilteringSettingsPart">Settings</string>
     <string name="packageViewFirewallSettingsPart">Firewall</string>
     <string name="package_view_techinfo_part">Technical information</string>
-    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -758,6 +764,12 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="pref_disable_proxy_reconfigure">Disable AdGuard automatic root proxy reconfiguration when network connectivity changes.</string>
     <string name="pref_disable_vpn_pause">Disable AdGuard automatic restart functions when disconnecting/connecting to the network.</string>
     <string name="pref_disable_vpn_reconfigure">Disable AdGuard automatic VPN reconfiguration when network connectivity changes.</string>
+    <string name="pref_dns_block_type">"Select blocking type for DNS Filtering:
+0 Means block requests with NXDomain for Network filtering rules and with IP for Host rules.
+1 Means block requests with NXDomain for all kinds of filtering rules.
+2 Means block requests with Unspecified IP for Network filtering rules and with given IP for Host filtering rules.
+
+1 will be used as a default value, if entered value is not valid."</string>
     <string name="pref_enforce_https_filtering">List of apps for which AdGuard enforces HTTPS filtering</string>
     <string name="pref_fallback_dns">A fallback DNS resolver that will be used when the configured server is not available. An empty string means using the system default DNS as a fallback.</string>
     <string name="pref_force_ipv6">Forcibly turn on filtering for IPv6 networks. The app does not filter IPv6 on KitKat and for some cell carriers by default.</string>
@@ -817,7 +829,6 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="premium_feature_stealth_mode_title">Stealth Mode</string>
     <string name="premium_info_dialog_message">You can find a complete list of features and prices on our website.</string>
     <string name="premium_info_dialog_title">Available only for Premium version</string>
-    <string name="premium_info_dialog_title_pattern">%s available only for Premium version</string>
     <string name="premium_license_name">Premium license</string>
     <string name="premium_promo_ads_blocking_in_apps">Ad blocking in apps</string>
     <string name="premium_promo_custom_filters">Custom filters</string>
@@ -893,6 +904,7 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="redirect_url_label">Redirect URL</string>
     <string name="regular_requests">Regular</string>
     <string name="regular_server_full">Regular server</string>
+    <string name="reinstall">Reinstall</string>
     <string name="releaseNotes">Update available</string>
     <string name="releaseNotesChangeLogHeaderText">Release notes for {0}</string>
     <string name="releaseNotesInstallUpdateButtonText">Update</string>
@@ -925,6 +937,31 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="samsung_pay_notification_title">Samsung Pay app may not work correctly in the VPN mode.</string>
     <string name="save">Save</string>
     <string name="save_and_select">Save and select</string>
+    <string name="sc_app_mgmt_item_text">Configure each app as you like. AdGuard will remember your settings.</string>
+    <string name="sc_app_mgmt_item_title">Individual per-app settings</string>
+    <string name="sc_app_stats_text">How much traffic AdGuard has saved by blocking ads. Tap to open the chart.</string>
+    <string name="sc_app_stats_title">Total data saved</string>
+    <string name="sc_disable_hints_button_text">Disable hints</string>
+    <string name="sc_empty_userfilter_text">Events blocked or whitelisted via Filtering Log also end up as rules here.</string>
+    <string name="sc_empty_userfilter_title">Add your own rules</string>
+    <string name="sc_empty_whitelist_text">Any domains added to the Whitelist will not be filtered. So you better trust them!</string>
+    <string name="sc_empty_whitelist_title">Add domains here</string>
+    <string name="sc_filter_categories_text">There are many different filter categories, just like there are lots of various tools in a toolbox. Each has its own purpose.</string>
+    <string name="sc_filter_categories_title">Filter categories</string>
+    <string name="sc_filtering_log_text">"It displays the web traffic of your device. Different types of events are highlighted with different colors.
+Green indicates whitelisted events
+Red is for events blocked by AdGuard
+Yellow means that the event was modified by AdGuard
+Tap on any event to show its details."</string>
+    <string name="sc_filtering_log_title">Filtering Log</string>
+    <string name="sc_filters_text">There are plenty of filters you can use. They differ in purpose and origin.</string>
+    <string name="sc_filters_title">"Filters… there's so much in this word"</string>
+    <string name="sc_main_switch_text">"This toggle turns protection on and off. When it's green all is good!"</string>
+    <string name="sc_main_switch_title">The main switch</string>
+    <string name="sc_menu_text">The menu provides access to Apps Management, Filtering Log and countless settings.</string>
+    <string name="sc_menu_title">The menu button</string>
+    <string name="sc_recommended_filter_text">If you see a filter with a star, it means that the filter is recommended by AdGuard team.</string>
+    <string name="sc_recommended_filter_title">Starred filters</string>
     <string name="search">Search app…</string>
     <string name="search_menu_title">Search</string>
     <string name="search_simple">Search…</string>
@@ -934,12 +971,12 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="sendFeedbackError">Error sending message</string>
     <string name="sendFeedbackSuccess">Message successfully sent. We will send a reply to the email address you have indicated.</string>
     <string name="sendingFeedbackProgressDialogTitle">Sending feedback message</string>
-    <string name="serviceManagerPauseProtectionDueToVpnNotificationText">until the other VPN app finishes its work</string>
-    <string name="serviceManagerPauseProtectionNotificationText">until the Internet connection is back online</string>
+    <string name="serviceManagerPauseProtectionDueToVpnNotificationText">until the other VPN app finishes its work. Tap to resume.</string>
+    <string name="serviceManagerPauseProtectionNotificationText">until the Internet connection is back online. Tap to resume.</string>
     <string name="serviceManagerPauseProtectionNotificationTitle">Protection is paused</string>
     <string name="serviceStatusTextViewText">Protection is</string>
-    <string name="serviceStatusTextViewTextOff"> disabled</string>
-    <string name="serviceStatusTextViewTextOn"> enabled</string>
+    <string name="serviceStatusTextViewTextOff">disabled</string>
+    <string name="serviceStatusTextViewTextOn">enabled</string>
     <string name="session_id_label">Connection ID</string>
     <string name="set_as_default">Set as default</string>
     <string name="setting_dark_theme">Dark Theme</string>
@@ -962,8 +999,29 @@ Regular apps built for Nougat+ cannot be filtered due to Android restrictions."<
     <string name="settings_dangerous_setting_summary">Only if you know what you are doing!</string>
     <string name="settings_dns">DNS Filtering</string>
     <string name="settings_dns_summary">DNS filtering settings</string>
+    <string name="settings_dns_user_filter">DNS User filter</string>
     <string name="settings_export_log">Export logs and system info</string>
-    <string name="settings_export_log_summary">Requires access to the files on your device</string>
+    <string name="settings_export_log_summary">Requires access to files on your device</string>
+    <string name="settings_extensions">Extensions</string>
+    <string name="settings_extensions_added">Extension \"{1}\" has been added</string>
+    <string name="settings_extensions_be_careful">&lt;b>Be careful!&lt;/b>&lt;br>Extensions can change data on your device.&lt;br>Add extensions from trusted sources only.</string>
+    <string name="settings_extensions_declension">extension enabled, extensions enabled</string>
+    <string name="settings_extensions_description">AdGuard can extend web sites functionality working as a cross-browser userscript manager.</string>
+    <string name="settings_extensions_details_download_url">Download URL</string>
+    <string name="settings_extensions_details_homepage">Homepage</string>
+    <string name="settings_extensions_details_last_update_time">Last update time</string>
+    <string name="settings_extensions_dialog_delete">Are you sure you want to delete this userscript? This operation cannot be undone.</string>
+    <string name="settings_extensions_dialog_error">Error while parsing the userscript</string>
+    <string name="settings_extensions_dialog_include">Include</string>
+    <string name="settings_extensions_dialog_match">Match</string>
+    <string name="settings_extensions_dialog_name_exists_message">Userscript with the same name already exists. Do you want to overwrite it?</string>
+    <string name="settings_extensions_dialog_overwrite_button">Overwrite</string>
+    <string name="settings_extensions_dialog_reinstall">Are you sure you want to reinstall this userscript? This operation cannot be undone.</string>
+    <string name="settings_extensions_dialog_reset">Are you sure you want to reset all extensions to defaults?</string>
+    <string name="settings_extensions_dialog_version">Version</string>
+    <string name="settings_extensions_menu_reset">Reset to defaults</string>
+    <string name="settings_extensions_new">New extension</string>
+    <string name="settings_extensions_nothing_enabled">No extensions enabled</string>
     <string name="settings_filter_apps">Block ads in all apps</string>
     <string name="settings_filter_apps_summary">"If this option is enabled, AdGuard filters the traffic of all applications.
 Otherwise it filters only browser traffic."</string>
@@ -1139,7 +1197,32 @@ Included packages:
     <string name="updateDownloadHasStartedMessage">The update download has started. Please check your Downloads folder to install the update.</string>
     <string name="updateFiltersMenuTitle">Check for Updates</string>
     <string name="update_custom_filter_error">Error updating custom filter %s</string>
+    <string name="update_dns_filter_error">Error updating DNS filter %s</string>
     <string name="update_filter_error">Error updating filter %s</string>
+    <string name="updates_application_empty">No updates available</string>
+    <string name="updates_application_new">Available version: %s</string>
+    <string name="updates_application_title">AdGuard %s</string>
+    <string name="updates_dns_filters_title">DNS filters</string>
+    <string name="updates_dns_filters_warning">DNS filtering is disabled</string>
+    <string name="updates_error_declension">error, errors</string>
+    <string name="updates_error_no_internet">Internet is not available</string>
+    <string name="updates_extensions_declension">extension updated, extensions updated</string>
+    <string name="updates_extensions_empty">Extensions are up to date</string>
+    <string name="updates_extensions_title">Extensions</string>
+    <string name="updates_extensions_warning">Extensions are disabled</string>
+    <string name="updates_failed">"Failed:
+"</string>
+    <string name="updates_failed_title">Failed to update</string>
+    <string name="updates_filters_declension">filter updated, filters updated</string>
+    <string name="updates_filters_title">Content blocking filters</string>
+    <string name="updates_filters_warning">No filters enabled</string>
+    <string name="updates_label">Updates</string>
+    <string name="updates_menu_manual_update">Update app manually</string>
+    <string name="updates_menu_restart">Check for updates again</string>
+    <string name="updates_menu_settings">Update settings</string>
+    <string name="updates_update_app">Update application</string>
+    <string name="updates_updated">"Updated:
+"</string>
     <string name="updatingApplicationProgressDialogTitle">Downloading</string>
     <string name="upgradeRequiresReboot">Device reboot is required after this update.</string>
     <string name="upgrade_or_renew_license">Upgrade or renew</string>
@@ -1154,7 +1237,6 @@ Included packages:
     <string name="user_filter_empty_title">"You haven't created any filtering rules yet"</string>
     <string name="user_rule_delete">The user rule was deleted</string>
     <string name="value_copied_to_clipboard">Text was copied to the clipboard.</string>
-    <string name="version_placeholder">Version 3.0 pre-omega</string>
     <string name="vpnFirstStartDialogMessage">It means that AdGuard does not route your traffic through a remote server. Filtering is done right on your device.</string>
     <string name="vpnFirstStartDialogTitle">AdGuard is a local VPN</string>
     <string name="vpnFirstStartDialogVpnIconMessage">When you see the key icon in your status bar, AdGuard protection is enabled.</string>
@@ -1185,4 +1267,5 @@ Included packages:
     <string name="widget_transparency_label">Transparency:</string>
     <string name="wifi_subtext">Filter updates, checking website safety</string>
     <string name="you_have_not_created_user_filters">You haven’t added any custom filter yet</string>
+    <item type="string" name="APKTOOL_DUMMY_4ae">false</item>
 </resources>
