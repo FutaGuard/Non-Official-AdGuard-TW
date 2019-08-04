@@ -888,7 +888,7 @@
     <string name="settings_watchdog_interval">看門狗週期</string>
     <string name="settings_watchdog_interval_message">在另一個程序中啟動一個保護服務，其檢查主服務是否活躍的，並且如果必要的話重新啟動它。零停用它。</string>
     <string name="settings_watchdog_interval_preview">目前：{0}</string>
-    <string name="settings_were_reset">設定重置成功</string>
+    <string name="settings_were_reset">設定重設成功</string>
     <string name="settings_whitelist">白名單</string>
     <string name="seven_days_interval">7 日</string>
     <string name="shortcut_outbound_proxy_toggle">切換往外的代理</string>
@@ -1044,4 +1044,5 @@
     <string name="you_have_not_created_user_filters">您尚未增加任何自訂的過濾器</string>
     <string name="abc_font_family_body_2_material"/>
     <string name="app_language_korean">官方中文</string>
+    <string name="password_toggle_content_description">顯示密碼</string>
 </resources>
