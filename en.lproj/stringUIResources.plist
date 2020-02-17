@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>DefaultProcessForFilteringDescription</key>
+    <dict>
+      <key>com.AlphaOmegaSoftware.DesktopWebBrowser</key>
+      <string>Desktop Web Browser</string>
+      <key>com.apple.Safari</key>
+      <string>Safari</string>
+      <key>com.apple.SafariTechnologyPreview</key>
+      <string>Safari Technology Preview</string>
+      <key>com.apple.mail</key>
+      <string>Mail</string>
+      <key>com.brave.Browser</key>
+      <string>Brave Browser</string>
+      <key>com.catalinagroup.Citrio</key>
+      <string>Citrio</string>
+      <key>com.electron.brave</key>
+      <string>Brave</string>
+      <key>com.flashpeak.SlimBoat</key>
+      <string>SlimBoat</string>
+      <key>com.flashpeak.Slimjet</key>
+      <string>Slimjet</string>
+      <key>com.google.Chrome</key>
+      <string>Google Chrome</string>
+      <key>com.google.Chrome.canary</key>
+      <string>Google Chrome Canary</string>
+      <key>com.maxthon.mac.Maxthon</key>
+      <string>Maxthon</string>
+      <key>com.microsoft.Edge.Canary</key>
+      <string>Microsoft Edge Canary (Old)</string>
+      <key>com.microsoft.edgemac.Canary</key>
+      <string>Microsoft Edge Canary</string>
+      <key>com.microsoft.Edge.Dev</key>
+      <string>Microsoft Edge Dev (Old)</string>
+      <key>com.microsoft.edgemac.Dev</key>
+      <string>Microsoft Edge Dev</string>
+      <key>com.microsoft.edgemac.Beta</key>
+      <string>Microsoft Edge Beta</string>
+      <key>com.microsoft.edgemac</key>
+      <string>Microsoft Edge</string>
+      <key>com.omnigroup.OmniWeb6</key>
+      <string>OmniWeb</string>
+      <key>com.opera.Neon</key>
+      <string>Opera Neon</string>
+      <key>com.operasoftware.Opera</key>
+      <string>Opera</string>
+      <key>com.polysuite.polybrowser</key>
+      <string>PolyBrowser</string>
+      <key>com.vivaldi.Vivaldi</key>
+      <string>Vivaldi</string>
+      <key>com.whitehatsec.aviator</key>
+      <string>Aviator</string>
+      <key>de.icab.iCab</key>
+      <string>iCab</string>
+      <key>jp.co.fenrir.sleipnir</key>
+      <string>Sleipnir</string>
+      <key>org.Runecats.Roccat</key>
+      <string>Roccat</string>
+      <key>org.Waterfoxproject.waterfox</key>
+      <string>Waterfox</string>
+      <key>org.chromium.Chromium</key>
+      <string>Chromium</string>
+      <key>org.mozilla.SeaMonkey</key>
+      <string>SeaMonkey</string>
+      <key>org.mozilla.cliqz</key>
+      <string>Cliqz</string>
+      <key>org.mozilla.firefox</key>
+      <string>Firefox</string>
+      <key>org.mozilla.firefoxdeveloperedition</key>
+      <string>FirefoxDeveloperEdition</string>
+      <key>org.mozilla.nightly</key>
+      <string>Firefox Nightly</string>
+      <key>org.mozilla.waterfox</key>
+      <string>Waterfox</string>
+      <key>ru.yandex.desktop.yandex-browser</key>
+      <string>Yandex</string>
+      <key>com.operasoftware.OperaDeveloper</key>
+      <string>Opera Developer</string>
+      <key>com.operasoftware.OperaNext</key>
+      <string>Opera Beta</string>
+      <key>com.valvesoftware.steam</key>
+      <string>Steam</string>
+      <key>com.hnc.Discord</key>
+      <string>Discord</string>
+      <key>com.microsoft.Outlook</key>
+      <string>Microsoft Outlook</string>
+    </dict>
+    <key>FeedbackSubjects</key>
+    <array>
+      <string>Bug Report</string>
+      <string>Feature Request</string>
+      <string>Other</string>
+    </array>
+    <key>FilterDescription</key>
+    <array>
+      <dict>
+        <key>description</key>
+        <string>Ad filter that you create on your own. You can add rules manually or use AdGuard Assistant.</string>
+        <key>name</key>
+        <string>User rules</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>Filter to block ads on websites in Russian.</string>
+        <key>name</key>
+        <string>Russian filter</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>An ad filter created specifically for the English-speaking internet.</string>
+        <key>name</key>
+        <string>Base filter</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>Filter for all known counters and analytical systems.</string>
+        <key>name</key>
+        <string>Tracking Protection filter</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>Filter for social media widgets ("Like" buttons and such).</string>
+        <key>name</key>
+        <string>Social media widgets filter</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>New filtering rules are being tested here.</string>
+        <key>name</key>
+        <string>Experimental filter</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>Filter to block ads on websites in German.</string>
+        <key>name</key>
+        <string>German filter</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>Filter to block ads on websites in Japanese.</string>
+        <key>name</key>
+        <string>Japanese filter</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>Filter to block ads on websites in Dutch.</string>
+        <key>name</key>
+        <string>Dutch filter</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>Filter to block ads on websites in Spanish and Portuguese.</string>
+        <key>name</key>
+        <string>Spanish/Portuguese filter</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>This setting enables a special filter for unblocking ads that may be helpful to the user. For example, a context-based ad that appears in a search result.</string>
+        <key>name</key>
+        <string>Filter unblocking search ads and self-promotion</string>
+      </dict>
+    </array>
+  </dict>
+</plist>
