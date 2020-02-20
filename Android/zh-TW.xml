@@ -25,7 +25,7 @@
     <string name="activate_adguard_premium">啟用 AdGuard 進階版</string>
     <string name="activatedAlreadyMessage">AdGuard 已啟動</string>
     <string name="activationBlockedMessage">授權金鑰無效</string>
-    <string name="activationErrorMessage">請檢查您已輸入一個有效的進階版授權金鑰。</string>
+    <string name="activationErrorMessage">請檢查輸入的金曜是否有效。</string>
     <string name="activationErrorTitleMessage">無法啟用進階版</string>
     <string name="activationExpiredMessage">此授權金鑰已到期。為了啟動 AdGuard，您應該續訂它。</string>
     <string name="activationNotExistsMessage">請檢查您已輸入一個有效的進階版授權金鑰。</string>
@@ -1045,4 +1045,5 @@
     <string name="abc_font_family_body_2_material"/>
     <string name="app_language_korean">官方中文</string>
     <string name="password_toggle_content_description">顯示密碼</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
 </resources>
